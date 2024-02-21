@@ -1,4 +1,5 @@
 Bikin konten youtube yang berisi edukasi
 - Tentang otomotif
+  * mobil listrik
 - Tentang aircraft
 - Tentang teknologi
